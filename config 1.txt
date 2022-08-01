@@ -1,5 +1,5 @@
 {
-	"ip":"Dark4FearSMP.aternos.me:",
+	"ip":"Dark4FearSMP.aternos.me:35904",
 	"port": "35904",
 	"name": "Afkbot"
 }
